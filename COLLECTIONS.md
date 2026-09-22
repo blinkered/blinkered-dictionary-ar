@@ -12,14 +12,14 @@ collection rather than reuse its record only has to put the file back where the 
 
 | collection | tokens | what it is | where it came from |
 | --- | ---: | --- | --- |
-| `fw2` | 1,149,982,536 | FineWeb-2 Arabic — a web crawl nobody here made | [fineweb2-ara.parquet](https://huggingface.co/datasets/HuggingFaceFW/fineweb-2/resolve/main/data/arb_Arab/train/000_00000.parquet) |
-| `wiki:ar` | 352,551,264 | Arabic Wikipedia — modern encyclopedic prose | [arwiki.xml.bz2](https://dumps.wikimedia.org/arwiki/latest/arwiki-latest-pages-articles.xml.bz2) |
-| `wikisource:ar` | 82,062,763 | Arabic Wikisource — same Wikimedia family, so it corroborates rather than counts | [arwikisource.xml.bz2](https://dumps.wikimedia.org/arwikisource/latest/arwikisource-latest-pages-articles.xml.bz2) |
-| `ia` | 36,076,752 | Internet Archive Arabic books — literature, and the register a newspaper never reaches | [archive-ar](https://archive.org/search?query=mediatype%3Atexts+AND+language%3A%22Arabic%22) |
-| `lz:ara_news_2020_1M` | 2,115,891 | Leipzig ara_news_2020_1M — modern news, cited by the page each sentence came from | [ara_news_2020_1M](https://downloads.wortschatz-leipzig.de/corpora/ara_news_2020_1M.tar.gz) |
-| `lz:ara_news_2022_1M` | 1,518,734 | Leipzig ara_news_2022_1M — modern news, cited by the page each sentence came from | [ara_news_2022_1M](https://downloads.wortschatz-leipzig.de/corpora/ara_news_2022_1M.tar.gz) |
-| `ebible:arbnav` | 402,001 | New Arabic Version — a family nothing else here belongs to | [arbnav_vpl.txt](https://ebible.org/Scriptures/arbnav_vpl.zip) |
-| `tat` | 256,885 | Tatoeba Arabic — contemporary and conversational | [ara_sentences.tsv](https://downloads.tatoeba.org/exports/per_language/ara/ara_sentences.tsv.bz2) |
+| `fw2` | 1,149,982,536 |  | — |
+| `wiki:ar` | 352,551,264 |  | — |
+| `wikisource:ar` | 82,062,763 |  | — |
+| `ia` | 65,175,768 | Internet Archive Arabic books — literature, and the register a newspaper never reaches | [archive-ar](https://archive.org/search?query=mediatype%3Atexts+AND+language%3A%22Arabic%22) |
+| `lz:ara_news_2020_1M` | 2,115,891 |  | — |
+| `lz:ara_news_2022_1M` | 1,518,734 |  | — |
+| `ebible:arbnav` | 402,001 |  | — |
+| `tat` | 256,885 |  | — |
 
 Totals are playable tokens after folding, not bytes. A collection missing from this table was
 never scanned; one present with no link was fetched by hand and its path is given instead.

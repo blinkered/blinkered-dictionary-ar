@@ -8,7 +8,7 @@ the curve a careful builder would get, not the order this repository happens to 
 The first two families keep nothing, which is not padding — it is the shape of a rule that needs
 three independent sources.
 
-Candidates: 656,979. Shipped: 313,501.
+Candidates: 656,979. Shipped: 346,516.
 
 Of 6 families, **4 can be checked by fetching** —
 a stable identifier or a page we fetched ourselves. The other 2 are crawls
@@ -19,9 +19,9 @@ it is their published corpus, not the web.
 | --- | --- | --- | --- | --- |
 | 1 | `commoncrawl` | 0 | 0.0% | — |
 | 2 | `wikimedia` | 0 | 0.0% | — |
-| 3 | `internetarchive` | 293,143 | 44.6% | +293,143 |
-| 4 | `leipzig` | 308,244 | 46.9% | +15,101 |
-| 5 | `ebible` | 311,852 | 47.5% | +3,608 |
-| 6 | `tatoeba` | 313,501 | 47.7% | +1,649 |
+| 3 | `internetarchive` | 334,343 | 50.9% | +334,343 |
+| 4 | `leipzig` | 343,064 | 52.2% | +8,721 |
+| 5 | `ebible` | 345,450 | 52.6% | +2,386 |
+| 6 | `tatoeba` | 346,516 | 52.7% | +1,066 |
 
-**Diminishing returns from family 5** (`ebible`, +3,608), where a family first added less than a twentieth of what the best one did.
+**Diminishing returns from family 4** (`leipzig`, +8,721), where a family first added less than a twentieth of what the best one did.

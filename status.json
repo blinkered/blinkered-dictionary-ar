@@ -2,7 +2,7 @@
   "language": "ar",
   "built": "2026-09-22",
   "candidates": 656979,
-  "shipped": 313501,
+  "shipped": 346516,
   "ships": true,
   "decided": "2026-09-21",
   "why": "Blessed by the operator on 2026-09-21, after verifying the usability floor, the minimum-W tests and the boards it deals.",
@@ -10,7 +10,7 @@
   "conforms": true,
   "families": 6,
   "checkable": 4,
-  "knee": 5,
+  "knee": 4,
   "steps": [
     {
       "families": 1,
@@ -29,30 +29,30 @@
     {
       "families": 3,
       "added": "internetarchive",
-      "kept": 293143,
-      "share": 0.446198,
-      "gained": 293143
+      "kept": 334343,
+      "share": 0.50891,
+      "gained": 334343
     },
     {
       "families": 4,
       "added": "leipzig",
-      "kept": 308244,
-      "share": 0.469184,
-      "gained": 15101
+      "kept": 343064,
+      "share": 0.522184,
+      "gained": 8721
     },
     {
       "families": 5,
       "added": "ebible",
-      "kept": 311852,
-      "share": 0.474676,
-      "gained": 3608
+      "kept": 345450,
+      "share": 0.525816,
+      "gained": 2386
     },
     {
       "families": 6,
       "added": "tatoeba",
-      "kept": 313501,
-      "share": 0.477186,
-      "gained": 1649
+      "kept": 346516,
+      "share": 0.527438,
+      "gained": 1066
     }
   ]
 }
